@@ -17,6 +17,5 @@ It serves as my **personal React practice space**, not a resource for public lea
 
 ## 🎯 Purpose
 The **main goal** of this repository is to:
-> Strengthen my React knowledge, stay updated with modern features, and continuously improve my development skills through practice and revision.
+ Strengthen my React knowledge, stay updated with modern features, and continuously improve my development skills through practice and revision.
 
----

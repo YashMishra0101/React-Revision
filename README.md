@@ -19,4 +19,4 @@ It serves as my **personal React practice space**, not a resource for public lea
 The **main goal** of this repository is to:  
 > Strengthen my React knowledge, stay updated with modern features, and continuously improve my development skills through practice and revision.
 
-💾 I’ve uploaded this repository on GitHub purely for my personal convenience and usage — mainly to keep a backup of my code and easily access it in case it gets lost locally.
+💾 I have uploaded this repository on GitHub purely for my personal convenience and usage — mainly to keep a backup of my code and easily access it in case it gets lost locally.
